@@ -1,2 +1,2 @@
 # codsoft
-datascience beginer projects
+UI/UX designs
